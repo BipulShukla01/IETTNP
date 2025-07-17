@@ -68,7 +68,7 @@ This document outlines the steps taken to implement a fully working login and re
    - Removes user data from state and localStorage
    - Updates UI to show login/register buttons
 
-## Future Enhancements
+## Enhancements
 
 1. **Backend Integration**
    - Replace simulated authentication with actual API calls
